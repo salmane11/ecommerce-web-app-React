@@ -1,0 +1,14 @@
+.list {
+  display: flex;
+  flex-direction: column;
+  flex: 0.17;
+  min-width: 200px;
+  margin-left: 0;
+  background-color: #90aacb;
+}
+.list h4 {
+  margin-left: 5%;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #6d8eb8;
+  color: #006eff;
+}

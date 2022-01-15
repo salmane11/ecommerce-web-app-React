@@ -1,0 +1,32 @@
+Our team think that the best solution for Mohammed's problem is to create an e-commerce web
+application using react for great ux and ui containing two parts : one for the administrator
+and the other for clients.
+
+the basic functionnalities of this application are :
+    First Part :
+	- show products, prices, rate, sizes, descriptions, cathegories, feedbacks.
+	- sign in & sign up for new users.
+	- select cathegories.
+	- select a product.
+	- put a product in the shopping cart.
+	- validate a cart.
+	- buy one product.
+	- communicate with the administrator.
+	- rate products.
+	- explore and modify on the shopping cart 
+
+     Second Part :
+	- add a product(description, price, title, quantity...)
+	- modify a product
+	- delete a product
+	- explore statistics
+	- explore clients
+	- validate transactions.
+	
+
+
+la conception de notre application est faite à l'aide du logiciel Figma qui permet 
+la création d'un prototype facilitant la bien comprehension des fonctionnalités et 
+d'éviter les mal entendus entre client et developpeurs
+
+https://www.figma.com/proto/dDke6g6QGmbcI9RxoaofXO/E-commerce-web-application-%3A-NewVibes?node-id=26%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=26%3A2&show-proto-sidebar=1

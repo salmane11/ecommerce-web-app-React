@@ -1,0 +1,13 @@
+problematic :
+	Mohammed, a traditionnal trador needs to sell his products online because a lot of consumers
+switched to buy online.
+
+needs:
+	- Mohammed needs a platform where to show his merchandise to online consumers
+	- Mohammed needs to add, modify and remove products from the platform depending on the store
+	- He needs to identify his consumers and personnalize their pages.
+	- He needs to provide great user experiences and great user-interface.
+	- He needs to sell and get payed online.
+	- He needs to describe specificaly every product.
+	- He needs to get feedbacks from the visitors.
+	- He needs to communicate with them.  

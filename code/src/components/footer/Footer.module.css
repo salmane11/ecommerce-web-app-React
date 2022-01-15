@@ -1,0 +1,44 @@
+.myfooter {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  margin-top: 20px;
+  background-color: #fef1e6;
+  color: #006eff;
+}
+.firstaddress {
+  flex: 0.25;
+}
+.secondaddress {
+  flex: 0.25;
+}
+.contact {
+  flex: 0.1;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 5px;
+  height: 34px;
+}
+.link {
+  text-decoration: none;
+  font-size: large;
+  font-weight: 600;
+  color: #006eff;
+  border-radius: 5px;
+}
+.contact:hover,
+link:hover {
+  color: #90aacb;
+  background-color: #f9d5a7;
+}
+.image {
+  flex: 0.4;
+  display: flex;
+  justify-content: space-evenly;
+}
+.image img {
+  width: 20%;
+  height: 70%;
+  border-radius: 10px;
+}

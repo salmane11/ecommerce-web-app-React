@@ -1,0 +1,19 @@
+.productcart{
+    display:flex;
+    justify-content: space-between;
+    background-color: #F9D5A7;
+    width:70%;
+    margin-left: 15%;
+    border-radius: 5px;
+    box-shadow: 1.5px 1.5px 1.5px 1px rgb(180, 180, 255);
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.productcart img{
+    width:50px;
+    border-radius:50%;
+    margin:5px;
+}
+.productcart h3{
+    color: #006eff;
+}
